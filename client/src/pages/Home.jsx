@@ -326,7 +326,6 @@ const Home = ({ userEmail, userRole }) => {
                             <p className="mb-2"><i className="fas fa-map-marker-alt me-2"></i>Amaravati,Andhra Pradesh</p>
                             <p className="mb-2"><i className="fas fa-phone me-2"></i>+91 0863 237 0444</p>
                             <p className="mb-2"><i className="fas fa-envelope me-2"></i>info@vitap.ac.in</p>
-                            <p className="mb-2">©rakesh.23bce8706@vitapstudent.ac.in</p>
                             <p className="mb-2">©durga.23bce8453@vitapstudent.ac.in</p>
                         </div>
                     </div>

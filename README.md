@@ -653,7 +653,6 @@ Contributions are welcome! Please follow these steps:
 
 <div align="center">
 
-**Made with ❤️ by tharani-2006**
 
 ⭐ Star this repo if you find it helpful!
 
